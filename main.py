@@ -5,4 +5,4 @@ def is_aboba(s: str) -> bool:
     return True
 
 
-print(is_aboba("3211000"))
+print(is_aboba("amongus"))
